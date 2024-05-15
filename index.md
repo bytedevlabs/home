@@ -1,7 +1,7 @@
 ---
-title: ByteDev Labs
+title: "ByteDev Labs"
 layout: home
-description: Buildign Impactful Softwares
+description: "Building Impactful Softwares"
 intro_image: "images/illustrations/ByteDev Labs AI 1.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
