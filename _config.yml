@@ -1,6 +1,7 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: ByteDev Labs
+description: Building Impactful Softwares
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
