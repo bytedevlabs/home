@@ -1,4 +1,4 @@
-baseurl: '/'
+baseurl: '/home/'
 permalink: pretty
 title: ByteDev Labs
 description: Building Impactful Softwares
