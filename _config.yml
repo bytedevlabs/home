@@ -1,7 +1,7 @@
 baseurl: 'https://bytedevlabs.com/'
 permalink: pretty
-title: ByteDev Labs
-description: Building Impactful Softwares
+title: "ByteDev Labs"
+description: "Building Impactful Softwares"
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
