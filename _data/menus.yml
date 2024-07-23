@@ -20,5 +20,5 @@ footer:
     url: "/contact/"
     weight: 2
   - name: "Snake"
-    url: "/games/snake/"
+    url: "/snake/"
     weight: 2
